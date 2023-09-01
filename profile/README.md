@@ -1,6 +1,6 @@
 # 알고리즘 스터디
 
-### [🗂️ 스터디 레포지토리](https://github.com/algorithm-study-KHJL/algorithm)
+### [🗂️ 스터디 정리 레포지토리](https://github.com/algorithm-study-KHJL/algorithm)
 
 ## 스터디 팀원
 | [<img src="https://github.com/fob-Ji.png" width="150px">](https://github.com/fob-Ji) | [<img src="https://github.com/202002538.png" width="150px">](https://github.com/202002538) | [<img src="https://github.com/ssstopeun.png" width="150px">](https://github.com/ssstopeun) | [<img src="https://github.com/gmelon.png" width="150px">](https://github.com/gmelon) |
